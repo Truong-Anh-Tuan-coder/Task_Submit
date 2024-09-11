@@ -1,0 +1,1 @@
+insert into tbl_user(username, password) values ('hello','d657f56e-084f-44a2-b3f6-2084bc6b6636')
